@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\73753692d8ca61e1429c13c1659c2728\material-1.0.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\fafb78652430c0f25066fe1c329651dd\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\2f7ef7fe7415e70b1ddeb417b0541f9e\jetified-loading-button-android-1.14.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\697051fa783b564b0de7da392527272f\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\ad9bbc46ce86d08e8e7961fa87ab882b\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\b204eeb1bf4a338a17d4abf71e60899e\recyclerview-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\729bab3e21245bdfdb5b2d472c2f7275\legacy-support-core-ui-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\91f525ef59212c894392f2ae0f011344\legacy-support-core-utils-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\bb609b6cffc26a41bfb643de9dd93e8f\transition-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\c1a6ee6dfc943393890e210d97a7881c\cardview-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\7edda03e1deccd33f13bb2193184f834\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\e0db96824e348dae8b50d47caab563d0\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\d042f14efeac06a84697a79bdac31c23\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\a3f22241f8a5fb108462be69227846ac\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\b9e71e632f66879ed42b863c8abbc1cd\coordinatorlayout-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\30dead62162f1e972ff0a800b48158b3\slidingpanelayout-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\d04ab8bb7bdec25a5c6399f856e26bbb\swiperefreshlayout-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\f7083b6e2c58d2d3aa2772adf1a3a68b\asynclayoutinflater-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\50d03d4bd0678052af20ac77ba46270a\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\cfa8394d1e4c76b354ee70c194a4d10c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\b1e33b2b8ad78a88a03dd63b08d14a4c\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\635e19250c7036544f0d21a3d81fe3e0\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\dab9ee95c49dfb4c3689b5907db13e8a\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\f0e93e18c1d9d5a05a46bca247db7cab\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\9300271204728d61d70e61c5f89aff58\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\f28dd3056a62bc58ed9c33201e0687e0\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\c29387ef82b6bed481ddae13632dbc23\documentfile-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\c5accaa8693d4cfdd7d544d0aba52878\localbroadcastmanager-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\9edf226579637cf7aba5768fb8ea6506\print-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\fc11633fd07c12518c9121e2cff169c0\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\a2d44ceb88b0af413e5362460c90d366\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\29e30fc94585ea4f8aad29cc0046bcd3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\a002c7205cf24170335509c3cbeb236c\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\ac9c23a3003d28249b7d5cb95239a03c\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\e61958c976ec6e46ce8c7628d45cb499\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\66d75fb9aa8de256063c2e6f43acc838\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\3f5e964f8554e664b00991ee6e9102a9\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:10:5-82
+	android:name
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:10:22-79
+application
+ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:12:5-28:19
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\73753692d8ca61e1429c13c1659c2728\material-1.0.0-rc01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\73753692d8ca61e1429c13c1659c2728\material-1.0.0-rc01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\fafb78652430c0f25066fe1c329651dd\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\fafb78652430c0f25066fe1c329651dd\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\ad9bbc46ce86d08e8e7961fa87ab882b\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\ad9bbc46ce86d08e8e7961fa87ab882b\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\9300271204728d61d70e61c5f89aff58\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\9300271204728d61d70e61c5f89aff58\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\fc11633fd07c12518c9121e2cff169c0\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\fc11633fd07c12518c9121e2cff169c0\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:19:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\9300271204728d61d70e61c5f89aff58\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:20:9-40
+	android:networkSecurityConfig
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:18:9-69
+activity#com.emericoapp.upload.MainActivity
+ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\73753692d8ca61e1429c13c1659c2728\material-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\73753692d8ca61e1429c13c1659c2728\material-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\fafb78652430c0f25066fe1c329651dd\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\fafb78652430c0f25066fe1c329651dd\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\2f7ef7fe7415e70b1ddeb417b0541f9e\jetified-loading-button-android-1.14.0\AndroidManifest.xml:7:5-9:41
+MERGED from [br.com.simplepass:loading-button-android:1.14.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\2f7ef7fe7415e70b1ddeb417b0541f9e\jetified-loading-button-android-1.14.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\697051fa783b564b0de7da392527272f\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\697051fa783b564b0de7da392527272f\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\ad9bbc46ce86d08e8e7961fa87ab882b\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\ad9bbc46ce86d08e8e7961fa87ab882b\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\b204eeb1bf4a338a17d4abf71e60899e\recyclerview-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\b204eeb1bf4a338a17d4abf71e60899e\recyclerview-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\729bab3e21245bdfdb5b2d472c2f7275\legacy-support-core-ui-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\729bab3e21245bdfdb5b2d472c2f7275\legacy-support-core-ui-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\91f525ef59212c894392f2ae0f011344\legacy-support-core-utils-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\91f525ef59212c894392f2ae0f011344\legacy-support-core-utils-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\bb609b6cffc26a41bfb643de9dd93e8f\transition-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\bb609b6cffc26a41bfb643de9dd93e8f\transition-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\c1a6ee6dfc943393890e210d97a7881c\cardview-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\c1a6ee6dfc943393890e210d97a7881c\cardview-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\7edda03e1deccd33f13bb2193184f834\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\7edda03e1deccd33f13bb2193184f834\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\e0db96824e348dae8b50d47caab563d0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\e0db96824e348dae8b50d47caab563d0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\d042f14efeac06a84697a79bdac31c23\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\d042f14efeac06a84697a79bdac31c23\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\a3f22241f8a5fb108462be69227846ac\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\a3f22241f8a5fb108462be69227846ac\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\b9e71e632f66879ed42b863c8abbc1cd\coordinatorlayout-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\b9e71e632f66879ed42b863c8abbc1cd\coordinatorlayout-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\30dead62162f1e972ff0a800b48158b3\slidingpanelayout-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\30dead62162f1e972ff0a800b48158b3\slidingpanelayout-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\d04ab8bb7bdec25a5c6399f856e26bbb\swiperefreshlayout-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\d04ab8bb7bdec25a5c6399f856e26bbb\swiperefreshlayout-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\f7083b6e2c58d2d3aa2772adf1a3a68b\asynclayoutinflater-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\f7083b6e2c58d2d3aa2772adf1a3a68b\asynclayoutinflater-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\50d03d4bd0678052af20ac77ba46270a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\50d03d4bd0678052af20ac77ba46270a\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\cfa8394d1e4c76b354ee70c194a4d10c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\cfa8394d1e4c76b354ee70c194a4d10c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\b1e33b2b8ad78a88a03dd63b08d14a4c\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\b1e33b2b8ad78a88a03dd63b08d14a4c\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\635e19250c7036544f0d21a3d81fe3e0\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\635e19250c7036544f0d21a3d81fe3e0\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\dab9ee95c49dfb4c3689b5907db13e8a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\dab9ee95c49dfb4c3689b5907db13e8a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\f0e93e18c1d9d5a05a46bca247db7cab\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\f0e93e18c1d9d5a05a46bca247db7cab\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\9300271204728d61d70e61c5f89aff58\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\9300271204728d61d70e61c5f89aff58\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\f28dd3056a62bc58ed9c33201e0687e0\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\f28dd3056a62bc58ed9c33201e0687e0\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\c29387ef82b6bed481ddae13632dbc23\documentfile-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\c29387ef82b6bed481ddae13632dbc23\documentfile-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\c5accaa8693d4cfdd7d544d0aba52878\localbroadcastmanager-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\c5accaa8693d4cfdd7d544d0aba52878\localbroadcastmanager-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\9edf226579637cf7aba5768fb8ea6506\print-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\9edf226579637cf7aba5768fb8ea6506\print-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\fc11633fd07c12518c9121e2cff169c0\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\fc11633fd07c12518c9121e2cff169c0\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\a2d44ceb88b0af413e5362460c90d366\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\a2d44ceb88b0af413e5362460c90d366\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\29e30fc94585ea4f8aad29cc0046bcd3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\29e30fc94585ea4f8aad29cc0046bcd3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\a002c7205cf24170335509c3cbeb236c\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\a002c7205cf24170335509c3cbeb236c\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\ac9c23a3003d28249b7d5cb95239a03c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\ac9c23a3003d28249b7d5cb95239a03c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\e61958c976ec6e46ce8c7628d45cb499\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\e61958c976ec6e46ce8c7628d45cb499\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\66d75fb9aa8de256063c2e6f43acc838\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\66d75fb9aa8de256063c2e6f43acc838\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\3f5e964f8554e664b00991ee6e9102a9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\3f5e964f8554e664b00991ee6e9102a9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kimkm\AndroidStudioProjects\Capstone_project-main (5)\Capstone_project-main\multi\multi-upload\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\ad9bbc46ce86d08e8e7961fa87ab882b\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\ad9bbc46ce86d08e8e7961fa87ab882b\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\ad9bbc46ce86d08e8e7961fa87ab882b\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\kimkm\.gradle\caches\transforms-2\files-2.1\ad9bbc46ce86d08e8e7961fa87ab882b\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
